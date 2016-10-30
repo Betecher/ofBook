@@ -7,6 +7,7 @@ Read the latest version [here](http://openframeworks.cc/learning/)!
 
 for other language, please read below.
 - Korean(한국어) : [README.ko.md](README.ko.md)
+- Chinese(中文) : [README.ko.md](README.zh-cn.md)
 
 **please note that this is still work-in-progress**
 

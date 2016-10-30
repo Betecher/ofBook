@@ -8,6 +8,10 @@ ofBook
 
 原教程是大家合作撰写的openFrameworks教程。  
 
+其他语言：
+- English(英文) : [README.md](README.md)
+- Korean(한국어) : [README.ko.md](README.ko.md)
+
 **原教程还在继续撰写中**
 
 
